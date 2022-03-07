@@ -1,7 +1,6 @@
 
 
-<h2> Hello! < Everyone/ > <div align='center'> I'm Chirag
-</div><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h2>
+<h2> Hello! < Everyone/ ><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>   I'm Chirag Modh</h2>
 
 <p align='center'>
 
