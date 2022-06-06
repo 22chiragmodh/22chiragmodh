@@ -1,6 +1,6 @@
 
 
-<h2> Hello! < Everyone/ ><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>   I'm Chirag Modh</h2>
+<h2> Hello! < Everyone/ ><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px height=25px>   I'm Chirag Modh</h2>
 
 <p align='center'>
 
