@@ -9,8 +9,8 @@
 
   
 # 💫About Me :
-<p>🔭 I’m currently working on Ecommerce Website.<p/>
-<p>🌱 I’m currently learning more about Flutter.<p/>
+<p>🔭 I’m currently working on Android development.<p/>
+<p>🌱 I’m currently learning more about Flutter, Kotlin.<p/>
 <p>🤔  I’m thinking of becoming a competitive programmer.<p/>
 <p>💬 Ask me about Flutter, Dart, C++, Oops, DBMS.<p/>
 <p>😄 Pronouns: He/His<p/>
