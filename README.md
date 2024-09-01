@@ -11,7 +11,7 @@
 # 💫About Me :
 <p>🔭 I’m currently working on Phalanx Project.<p/>
 <p>🌱 I’m currently learning more about Next.Js & Flutter.<p/>
-<p>🤔  I’m thinking of becoming a competitive programmer.<p/>
+<p>🤔 On a journey to becoming a creative and great developer | Passionate about coding and crafting innovative solutions<p/>
 <p>💬 Ask me about Flutter, Dart, C++, Oops, DBMS.<p/>
 <p>😄 Pronouns: He/His<p/>
 
