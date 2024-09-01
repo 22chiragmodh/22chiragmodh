@@ -4,7 +4,7 @@
 
 <p align='center'>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=22chiragmodh.22chiragmodh)
+
  <br>
 
   
