@@ -4,9 +4,6 @@
 
 <p align='center'>
 
-
- <br>
-
   
 # 💫About Me :
 <p>🔭 I’m currently working on Phalanx Project.<p/>
