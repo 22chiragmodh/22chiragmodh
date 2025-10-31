@@ -6,10 +6,9 @@
 
   
 # 💫About Me :
-<p>🔭 I’m currently working on Phalanx Project.<p/>
-<p>🌱 I’m currently learning more about Next.Js & Flutter.<p/>
-<p>🤔 On a journey to becoming a creative and great developer | Passionate about coding and crafting innovative solutions<p/>
-<p>💬 Ask me about Flutter, Dart, C++, Oops, DBMS.<p/>
+<p> I'm a Software Engineer at Genesys, holding an integrated B.Tech + M.Tech in Information Technology from IIIT Gwalior.<p/>
+<p> I specialize as a Mobile & Linux-based IVI (In-Vehicle Infotainment) application developer.<p/>
+<p> 💪 I love to take on challenging tasks and see them through to completion.<p/>
 <p>😄 Pronouns: He/His<p/>
 
 
